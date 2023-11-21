@@ -1,0 +1,7 @@
+program name;
+ var
+  a,b:Integer
+begin
+  Read(a,b);
+  Write((a/b)*3);
+end.
